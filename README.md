@@ -1,2 +1,5 @@
-# Tayoo_Web_Public
-Thank you for your contribution to Tayoo! Please select 'Report an issue' to report any problems to us.
+# Tayoo Web
+
+Dear Developer, thank you for contributing to Tayoo!
+
+##### The Tayoo Team
